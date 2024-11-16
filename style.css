@@ -1,0 +1,46 @@
+h2{
+	background-color: dimgrey;
+	text-align: center;
+	box-shadow: 2px 2px 2px 2px black;
+	padding: 4px 6px;
+	border-style: dotted;
+	border-color: darkolivegreen;
+	color:aliceblue;
+	text-shadow: 2px 2px grey;
+	font-family: 'Plus Jakarta Sans';
+}
+p{
+	text-align: center;
+	text-shadow: 2px;
+	color:white;
+	font-family: 'Alegreya SC';
+}
+body{
+	background-image: url("helloo.gif");
+}
+img{
+	width: 200px;
+	height: 200px;
+}
+.egg{
+	
+	width: 435px;
+	height: 200px;
+	box-shadow: 2px 2px 2px 2px;
+    border-color: darkred;
+    border-style: solid;
+ 
+}
+.chicken{
+	
+	width: 435px;
+	height: 200px;
+}
+
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
